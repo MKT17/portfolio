@@ -12,7 +12,7 @@ Hello! I'm Kelani Mubarak, a passionate and dedicated professional who transitio
 **Data Analysis & Manipulation:**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="20"/> Proficient in data wrangling and cleaning using Python (Pandas, NumPy).
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Icon" width="20"/> Skilled in querying and managing databases with SQL.
-- Expertise in data manipulation and analysis with Excel.
+-    Expertise in data manipulation and analysis with Excel.
 
 **Data Visualization:**
 - Creating compelling visualizations using Power BI, Matplotlib, and Seaborn.
@@ -24,7 +24,7 @@ Hello! I'm Kelani Mubarak, a passionate and dedicated professional who transitio
 - Implementing and fine-tuning models for predictive analytics and forecasting.
 
 **Civil Engineering:**
-- CADS: AutoCAD, Prota Structure, Robot structure, RISA, ETAB, SAFE.
+- CADS: AutoCAD, Prota Structure, Staadpro, RCDC.
 - Microsoft Office Packages: MS Word, MS Excel, MS PowerPoint, MS Access.
 - Detailing of concrete and steel structures.
 - Manual Design / Excel Spreadsheet.
@@ -90,7 +90,7 @@ Second Class Honours (Upper Division)
 
 ## 🎓 Certifications
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="20"/> IBM Professional Data Science Specialization (Coursera)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="50"/> IBM Professional Data Science Specialization (Coursera)
 - AutoCAD 2D and 3D training (SQI ICT Academy, 2016)
 - BIM management for engineers (National Taiwan University, 2022)
 - Construction project management (Columbia University, 2022)
@@ -132,3 +132,4 @@ Thank you for visiting my portfolio!
 
 **Hobbies and Interests:**
 - Football, Reading, Programming, Volunteering
+
