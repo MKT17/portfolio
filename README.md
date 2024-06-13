@@ -10,8 +10,8 @@ Hello! I'm Kelani Mubarak, a passionate and dedicated professional who transitio
 ## 🔧 Skills & Expertise
 
 **Data Analysis & Manipulation:**
-- ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =20x20) Proficient in data wrangling and cleaning using Python (Pandas, NumPy).
-- ![SQL Icon](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png =20x20) Skilled in querying and managing databases with SQL.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="20"/> Proficient in data wrangling and cleaning using Python (Pandas, NumPy).
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Icon" width="20"/> Skilled in querying and managing databases with SQL.
 - Expertise in data manipulation and analysis with Excel.
 
 **Data Visualization:**
@@ -90,7 +90,7 @@ Second Class Honours (Upper Division)
 
 ## 🎓 Certifications
 
-- ![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg =20x20) IBM Professional Data Science Specialization (Coursera)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="20"/> IBM Professional Data Science Specialization (Coursera)
 - AutoCAD 2D and 3D training (SQI ICT Academy, 2016)
 - BIM management for engineers (National Taiwan University, 2022)
 - Construction project management (Columbia University, 2022)
@@ -116,9 +116,9 @@ Second Class Honours (Upper Division)
 
 I am always eager to collaborate on exciting data projects and learn from the vibrant data science community. Feel free to reach out, connect, and explore opportunities together.
 
-![LinkedIn Icon](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png =20x20) [LinkedIn](https://www.linkedin.com)  
-![GitHub Icon](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg =20x20) [GitHub](https://www.github.com)  
-![Email Icon](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Icon.svg =20x20) [Email](mailto:mubarak007kelly@gmail.com)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" width="20"/> [LinkedIn](https://www.linkedin.com)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Icon" width="20"/> [GitHub](https://www.github.com)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Icon.svg" alt="Email Icon" width="20"/> [Email](mailto:mubarak007kelly@gmail.com)
 
 ---
 
