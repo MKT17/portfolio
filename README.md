@@ -4,14 +4,12 @@
 ## 👷 Civil Engineer Turned Data Analyst/Data Scientist
 Hello! I'm Kelani Mubarak, a passionate and dedicated data enthusiast who transitioned from civil engineering to the exciting world of data analysis and data science. My journey from building infrastructures to building data models has been a fascinating one, and I am thrilled to share my experiences and expertise with the GitHub community.
 
-![Professional Headshot](https://unsplash.com/photos/JR9JJsmD60s/download?force=true&w=640)
-
 ---
 
 ## 🔧 Skills & Expertise
 **Data Analysis & Manipulation:**
-- ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Proficient in data wrangling and cleaning using Python (Pandas, NumPy).
-- ![SQL Icon](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) Skilled in querying and managing databases with SQL.
+- Proficient in data wrangling and cleaning using Python (Pandas, NumPy).
+- Skilled in querying and managing databases with SQL.
 - Expertise in data manipulation and analysis with Excel.
 
 **Data Visualization:**
@@ -38,7 +36,7 @@ I have always had a curious mindset, and my transition into data analysis and da
 
 ## 🏆 Professional Experience & Education
 ### Internships:
-- ![British Airways Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/80/British_Airways_Logo.svg/1920px-British_Airways_Logo.svg.png) **British Airways Internship (Forage)**: Applied data analysis techniques to optimize flight operations and improve customer experience.
+- ![British Airways Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/80/British_Airways_Logo.svg/1920px-British_Airways_Logo.svg) **British Airways Internship (Forage)**: Applied data analysis techniques to optimize flight operations and improve customer experience.
 - **BCX Internship (Forage)**: Conducted data analysis and visualization to support business strategy and decision-making.
 - **Zidio Internship (India)**: Engaged in data science projects, focusing on predictive analytics and machine learning models.
 
